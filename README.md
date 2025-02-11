@@ -9,7 +9,7 @@ Sou técnico em informática há 10 anos, estou em transição para a área de d
 
 ## 🌍 Idiomas
 
-**Ingles** - Intermediário
+- **Ingles**: Intermediário
 
 ## 🔧 Tecnologias e Ferramentas
 
