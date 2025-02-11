@@ -1,11 +1,11 @@
 # Olá, me chamo Daniel! 👋
 
-Sou técnico em informática há 10 anos, estou em transição para a área de desenvolvimento de software. Estou estudando desenvolvimento web, api's, bibliotecas e banco de dados. Atualmente, estou aprofundando meus conhecimentos em POO e node.
+Sou técnico em informática há 10 anos, estou em transição para a área de desenvolvimento de software. Estou criando projetos que utilizem APIs, bibliotecas e banco de dados para aprofundar meus conhecimentos.
 
 ## 🚀 Sobre mim
 
-- 💻 Trabalho atualmente com manutenção de computadores, notebooks, redes e servidores;
-- 🎯 Busco aperfeiçoar minhas habilidades e atuar como desenvolvedor;
+- 💻 Trabalho atualmente com manutenção de computadores, notebooks, redes e servidores.
+- 🎯 Busco aperfeiçoar minhas habilidades e atuar como desenvolvedor.
 
 ## 🌍 Idiomas
 
