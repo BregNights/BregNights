@@ -1,16 +1,32 @@
-## Hi there 👋
+# Olá, me chamo Daniel! 👋
 
-<!--
-**BregNights/bregnights** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou técnico em informática há 10 anos, estou em transição para a área de desenvolvimento de software. Estou estudando desenvolvimento web, api's, bibliotecas e banco de dados. Atualmente, estou aprofundando meus conhecimentos em POO e node.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Trabalho atualmente com manutenção de computadores, notebooks, redes e servidores;
+- 🎯 Busco aperfeiçoar minhas habilidades e atuar como desenvolvedor;
+
+## 🌍 Idiomas
+
+**Ingles** - Intermediário
+
+## 🔧 Tecnologias e Ferramentas
+
+- 🖥️ **Linguagens**: JavaScript, HTML, CSS, Python
+- ⚡ **Ferramentas**: VS Code, Git
+- 🗄️ **Banco de Dados**: Firebase
+- 🌐 **APIs**: ViaCEP, ExchangeRate
+- 📦 **Bibliotecas**: ExcelJS, LocalStorage
+
+## 📌 Projetos
+
+- [Formulário com API de CEP](https://github.com/BregNights/form-with-api-zipcode)
+- [Lista de Tarefas com LocalStorage](https://github.com/BregNights/to-do-list-with-localstorage)
+- [Formulário com ExcelJS e Firebase](https://github.com/BregNights/form-project-with-excel-library-and-firebase)
+- [Projeto de Adição de Serviços com Firebase](https://github.com/BregNights/project-add-services-with-firebase)
+
+## 📫 Contato
+
+- 📧 **E-mail**: contato.danielbaumann@gmail.com
+- 💼 **LinkedIn**: [linkedin.com/in/seu-usuario](https://www.linkedin.com/in/eudanielbaumann/)
