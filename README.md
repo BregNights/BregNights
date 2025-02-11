@@ -29,4 +29,4 @@ Sou técnico em informática há 10 anos, estou em transição para a área de d
 ## 📫 Contato
 
 - 📧 **E-mail**: contato.danielbaumann@gmail.com
-- 💼 **LinkedIn**: [linkedin.com/in/seu-usuario](https://www.linkedin.com/in/eudanielbaumann/)
+- 💼 **LinkedIn**: [Daniel Baumann](https://www.linkedin.com/in/eudanielbaumann/)
