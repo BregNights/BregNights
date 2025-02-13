@@ -21,6 +21,7 @@ Sou técnico em informática há 10 anos, estou em transição para a área de d
 
 ## 📌 Projetos
 
+- [Previsão do Tempo com API](https://github.com/BregNights/weather-with-api)
 - [Formulário com API de CEP](https://github.com/BregNights/form-with-api-zipcode)
 - [Lista de Tarefas com LocalStorage](https://github.com/BregNights/to-do-list-with-localstorage)
 - [Formulário com ExcelJS e Firebase](https://github.com/BregNights/form-project-with-excel-library-and-firebase)
