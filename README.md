@@ -13,10 +13,10 @@ Sou técnico em informática há 10 anos, estou em transição para a área de d
 
 ## 🔧 Tecnologias e Ferramentas
 
-- 🖥️ **Linguagens**: JavaScript, HTML, CSS, Python
+- 🖥️ **Linguagens**: JavaScript, Node.js HTML, CSS, Python
 - ⚡ **Ferramentas**: VS Code, Git
 - 🗄️ **Banco de Dados**: Firebase
-- 🌐 **APIs**: ViaCEP, ExchangeRate
+- 🌐 **APIs**: ViaCEP, ExchangeRate, Weather API
 - 📦 **Bibliotecas**: ExcelJS, LocalStorage
 
 ## 📌 Projetos
