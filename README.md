@@ -21,11 +21,10 @@ Sou técnico em informática há 10 anos, estou em transição para a área de d
 
 ## 📌 Projetos
 
-- [Previsão do Tempo com API](https://github.com/BregNights/weather-with-api)
-- [Formulário com API de CEP](https://github.com/BregNights/form-with-api-zipcode)
-- [Lista de Tarefas com LocalStorage](https://github.com/BregNights/to-do-list-with-localstorage)
-- [Formulário com ExcelJS e Firebase](https://github.com/BregNights/form-project-with-excel-library-and-firebase)
-- [Projeto de Adição de Serviços com Firebase](https://github.com/BregNights/project-add-services-with-firebase)
+- [Previsão do Tempo com API](https://weather-now-beryl.vercel.app/)
+- [Tela de registro com API de CEP](https://fast-cep-reg.vercel.app/)
+- [Conversor de moeda com API](https://convert-easy-smoky.vercel.app/)
+- [Lista de Tarefas utilizando LocalStorage](https://task-vault-eight.vercel.app/)
 
 ## 📫 Contato
 
