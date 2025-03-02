@@ -22,10 +22,10 @@ Sou técnico em informática há 10 anos, estou em transição para a área de d
 
 ## 📌 Projetos
 
-- [Previsão do Tempo com API](https://weather-now-beryl.vercel.app/)
+- [Página do Tempo com API de previsão do tempo](https://weather-now-beryl.vercel.app/)
 - [Formulário de registro com API de CEP](https://fast-cep-reg.vercel.app/)
-- [Conversor de moeda com API](https://convert-easy-smoky.vercel.app/)
-- [Lista de Tarefas utilizando LocalStorage](https://task-vault-eight.vercel.app/)
+- [Conversor de moeda com API de taxa de câmbio](https://convert-easy-smoky.vercel.app/)
+- [Lista de Tarefas utilizando a biblioteca LocalStorage](https://task-vault-eight.vercel.app/)
 
 ## ❇️ Em Desenvolvimento
 - [API RESTful para gerenciamento de usuários, produtos e pedidos, com autenticação e autorização via JWT.](https://github.com/BregNights/users-node-api)
