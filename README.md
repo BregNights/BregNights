@@ -28,7 +28,7 @@ Sou técnico em informática há 10 anos, estou em transição para a área de d
 - [Lista de Tarefas utilizando LocalStorage](https://task-vault-eight.vercel.app/)
 
 ## 💣 Em Desenvolvimento
-- [API de CRUD de usuários com autenticação e autorização](https://github.com/BregNights/users-node-api)
+- [API RESTful para gerenciamento de usuários, produtos e pedidos, com autenticação e autorização via JWT.](https://github.com/BregNights/users-node-api)
 
 ## 📫 Contato
 
