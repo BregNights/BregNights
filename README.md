@@ -27,7 +27,7 @@ Sou técnico em informática há 10 anos, estou em transição para a área de d
 - [Conversor de moeda com API](https://convert-easy-smoky.vercel.app/)
 - [Lista de Tarefas utilizando LocalStorage](https://task-vault-eight.vercel.app/)
 
-## 💣 Em Desenvolvimento
+## ❇️ Em Desenvolvimento
 - [API RESTful para gerenciamento de usuários, produtos e pedidos, com autenticação e autorização via JWT.](https://github.com/BregNights/users-node-api)
 
 ## 📫 Contato
