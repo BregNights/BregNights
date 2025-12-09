@@ -36,7 +36,7 @@ Sou técnico em informática há 10 anos, estou em transição para a área de d
 
 ## 🚧 Em Desenvolvimento
 
-- [API RESTful para gerenciamento de entregas, com entregadores, pacotes e destinatários. Typescript, Nestjs, OOBE, DDD, Clean Architecture, Design Patterns](https://github.com/BregNights/FastFeetAPI-Desafio-RS)
+- [API desenvolvida para simular o funcionamento de uma transportadora](https://github.com/BregNights/FastFeetAPI-Desafio-RS)
 
 ## 📫 Contato
 
