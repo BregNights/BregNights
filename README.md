@@ -39,8 +39,6 @@ Sou técnico em informática há 10 anos, estou em transição para a área de d
 
 - [API em desenvolvimento para encurtar links](https://github.com/BregNights/ClickShort)
 
-https://github.com/BregNights/ClickShort
-
 ## 📫 Contato
 
 - 📧 **E-mail**: contato.danielbaumann@gmail.com
