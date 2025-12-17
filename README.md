@@ -33,11 +33,12 @@ Sou técnico em informática há 10 anos, estou em transição para a área de d
 - [Conversor de moeda com API de taxa de câmbio](https://convert-easy-smoky.vercel.app/)
 - [Lista de Tarefas utilizando a biblioteca LocalStorage](https://task-vault-eight.vercel.app/)
 - [API REST para gerenciamento de usuários, produtos e pedidos, com autenticação e autorização via JWT. Javascript, NodeJs, Fastify](https://github.com/BregNights/users-node-api)
-- [API desenvolvida para simular o funcionamento de uma transportadora](https://github.com/BregNights/FastFeetAPI-Desafio-RS)
+- [API REST desenvolvida para simular o funcionamento de uma transportadora](https://github.com/BregNights/FastFeetAPI-Desafio-RS)
+- [API REST em desenvolvimento para encurtar links](https://github.com/BregNights/ClickShort)
 
 ## 🚧 Em Desenvolvimento
 
-- [API em desenvolvimento para encurtar links](https://github.com/BregNights/ClickShort)
+
 
 ## 📫 Contato
 
